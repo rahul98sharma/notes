@@ -5,7 +5,7 @@
 
 ## What it does
 
-Open a notepad in the Firefox toolbar to store notes about your browsing.
+Open a notepad in the Firefox toolbar to store notes about your browsing .
 
 
 ## How to use it
